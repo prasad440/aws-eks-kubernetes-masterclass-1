@@ -4,4 +4,5 @@ metadata:
   name: mysql
 spec:
   type: ExternalName
-  externalName: usermgmtdb.cxojydmxwly6.us-east-1.rds.amazonaws.com
+  externalName: usermgmtdb.cnvyzwszdau7.ap-south-1.rds.amazonaws.com
+  
